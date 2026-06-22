@@ -1,0 +1,19 @@
+{
+  "name": "katie-spencer-skills",
+  "description": "Strategic planning skills for Katie Spencer",
+  "owner": {
+    "name": "Chad Owen",
+    "email": "chad@maeveferguson.com"
+  },
+  "plugins": [
+    {
+      "name": "katie-spencer-skills",
+      "source": "./",
+      "displayName": "Katie Spencer Skills",
+      "description": "Annual, quarterly, monthly, and weekly strategic planning skills",
+      "author": {
+        "name": "Chad Owen"
+      }
+    }
+  ]
+}
